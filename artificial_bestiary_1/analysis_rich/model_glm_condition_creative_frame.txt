@@ -1,0 +1,25 @@
+                 Generalized Linear Model Regression Results                  
+==============================================================================
+Dep. Variable:     creative_frame_int   No. Observations:                 1800
+Model:                            GLM   Df Residuals:                     1790
+Model Family:                Binomial   Df Model:                            9
+Link Function:                  Logit   Scale:                          1.0000
+Method:                          IRLS   Log-Likelihood:                -556.19
+Date:                Thu, 30 Apr 2026   Deviance:                       1112.4
+Time:                        00:47:25   Pearson chi2:                 1.80e+03
+No. Iterations:                     8   Pseudo R-squ. (CS):             0.5082
+Covariance Type:              cluster                                         
+====================================================================================================================================
+                                                                       coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                            0.7183      0.260      2.760      0.006       0.208       1.228
+C(condition, Treatment(reference="neutral"))[T.imaginary_animal]    -0.6960      0.419     -1.661      0.097      -1.517       0.125
+C(condition, Treatment(reference="neutral"))[T.imaginary_idea]       3.0659      0.958      3.200      0.001       1.188       4.944
+C(condition, Treatment(reference="neutral"))[T.imaginary_object]     0.7390      0.454      1.629      0.103      -0.150       1.628
+C(condition, Treatment(reference="neutral"))[T.real_animal]         -2.4529      0.354     -6.928      0.000      -3.147      -1.759
+C(condition, Treatment(reference="neutral"))[T.real_idea]           -3.3573      0.428     -7.846      0.000      -4.196      -2.519
+C(condition, Treatment(reference="neutral"))[T.real_object]         -3.2713      0.347     -9.424      0.000      -3.952      -2.591
+C(condition, Treatment(reference="neutral"))[T.type_of_animal]       4.4691      1.135      3.938      0.000       2.245       6.693
+C(condition, Treatment(reference="neutral"))[T.type_of_idea]         2.8371      0.727      3.901      0.000       1.412       4.262
+C(condition, Treatment(reference="neutral"))[T.type_of_object]       3.3593      0.474      7.090      0.000       2.431       4.288
+====================================================================================================================================

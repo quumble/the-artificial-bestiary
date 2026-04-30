@@ -1,0 +1,33 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:          output_tokens   R-squared:                       0.794
+Model:                            OLS   Adj. R-squared:                  0.793
+Method:                 Least Squares   F-statistic:                     492.2
+Date:                Thu, 30 Apr 2026   Prob (F-statistic):           5.89e-10
+Time:                        00:47:25   Log-Likelihood:                -8897.6
+No. Observations:                1800   AIC:                         1.782e+04
+Df Residuals:                    1790   BIC:                         1.787e+04
+Df Model:                           9                                         
+Covariance Type:              cluster                                         
+====================================================================================================================================
+                                                                       coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------------------------------------------------------
+Intercept                                                          120.6500      1.593     75.749      0.000     117.528     123.772
+C(condition, Treatment(reference="neutral"))[T.imaginary_animal]   202.5222      5.419     37.371      0.000     191.901     213.144
+C(condition, Treatment(reference="neutral"))[T.imaginary_idea]     126.1444     17.586      7.173      0.000      91.677     160.612
+C(condition, Treatment(reference="neutral"))[T.imaginary_object]   153.8778     15.212     10.116      0.000     124.063     183.692
+C(condition, Treatment(reference="neutral"))[T.real_animal]          7.0333      2.848      2.469      0.014       1.451      12.616
+C(condition, Treatment(reference="neutral"))[T.real_idea]           18.5889      3.114      5.970      0.000      12.486      24.692
+C(condition, Treatment(reference="neutral"))[T.real_object]          5.6500      2.647      2.134      0.033       0.462      10.838
+C(condition, Treatment(reference="neutral"))[T.type_of_animal]      52.4333      8.195      6.398      0.000      36.372      68.495
+C(condition, Treatment(reference="neutral"))[T.type_of_idea]        74.7556      8.701      8.592      0.000      57.702      91.809
+C(condition, Treatment(reference="neutral"))[T.type_of_object]      43.7833      8.773      4.991      0.000      26.589      60.978
+==============================================================================
+Omnibus:                      219.968   Durbin-Watson:                   1.989
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              552.348
+Skew:                          -0.683   Prob(JB):                    1.15e-120
+Kurtosis:                       5.345   Cond. No.                         10.9
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)

@@ -1,0 +1,32 @@
+                             OLS Regression Results                             
+================================================================================
+Dep. Variable:     specific_terms_total   R-squared:                       0.531
+Model:                              OLS   Adj. R-squared:                  0.529
+Method:                   Least Squares   F-statistic:                     6755.
+Date:                  Thu, 30 Apr 2026   Prob (F-statistic):           1.68e-14
+Time:                          00:47:25   Log-Likelihood:                -3472.5
+No. Observations:                  1620   AIC:                             6963.
+Df Residuals:                      1611   BIC:                             7011.
+Df Model:                             8                                         
+Covariance Type:                cluster                                         
+===============================================================================================================
+                                                  coef    std err          z      P>|z|      [0.025      0.975]
+---------------------------------------------------------------------------------------------------------------
+Intercept                                       8.8944      0.310     28.687      0.000       8.287       9.502
+C(reality)[T.real]                             -5.0556      0.281    -17.975      0.000      -5.607      -4.504
+C(reality)[T.type of]                          -4.2500      0.369    -11.530      0.000      -4.972      -3.528
+C(category)[T.idea]                            -4.2500      0.627     -6.777      0.000      -5.479      -3.021
+C(category)[T.object]                          -1.7222      0.931     -1.850      0.064      -3.547       0.102
+C(reality)[T.real]:C(category)[T.idea]          2.8167      0.797      3.535      0.000       1.255       4.379
+C(reality)[T.type of]:C(category)[T.idea]       2.6167      0.828      3.161      0.002       0.994       4.239
+C(reality)[T.real]:C(category)[T.object]        0.2778      0.904      0.307      0.759      -1.493       2.049
+C(reality)[T.type of]:C(category)[T.object]    -0.8056      1.013     -0.796      0.426      -2.790       1.179
+==============================================================================
+Omnibus:                       53.956   Durbin-Watson:                   1.981
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              140.415
+Skew:                          -0.056   Prob(JB):                     3.23e-31
+Kurtosis:                       4.438   Cond. No.                         13.9
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (cluster)
