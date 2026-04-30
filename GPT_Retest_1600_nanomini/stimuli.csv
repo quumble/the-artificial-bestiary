@@ -1,0 +1,801 @@
+trial_id,word,condition,reality,category,trial_n,prompt
+r00200,borthorpunius,neutral,,,0,Describe a borthorpunius.
+r00201,borthorpunius,neutral,,,1,Describe a borthorpunius.
+r00202,borthorpunius,neutral,,,2,Describe a borthorpunius.
+r00203,borthorpunius,neutral,,,3,Describe a borthorpunius.
+r00204,borthorpunius,neutral,,,4,Describe a borthorpunius.
+r00205,borthorpunius,neutral,,,5,Describe a borthorpunius.
+r00206,borthorpunius,neutral,,,6,Describe a borthorpunius.
+r00207,borthorpunius,neutral,,,7,Describe a borthorpunius.
+r00208,borthorpunius,neutral,,,8,Describe a borthorpunius.
+r00209,borthorpunius,neutral,,,9,Describe a borthorpunius.
+r00400,flembrast,neutral,,,0,Describe a flembrast.
+r00401,flembrast,neutral,,,1,Describe a flembrast.
+r00402,flembrast,neutral,,,2,Describe a flembrast.
+r00403,flembrast,neutral,,,3,Describe a flembrast.
+r00404,flembrast,neutral,,,4,Describe a flembrast.
+r00405,flembrast,neutral,,,5,Describe a flembrast.
+r00406,flembrast,neutral,,,6,Describe a flembrast.
+r00407,flembrast,neutral,,,7,Describe a flembrast.
+r00408,flembrast,neutral,,,8,Describe a flembrast.
+r00409,flembrast,neutral,,,9,Describe a flembrast.
+r00000,halthibinny,neutral,,,0,Describe a halthibinny.
+r00001,halthibinny,neutral,,,1,Describe a halthibinny.
+r00002,halthibinny,neutral,,,2,Describe a halthibinny.
+r00003,halthibinny,neutral,,,3,Describe a halthibinny.
+r00004,halthibinny,neutral,,,4,Describe a halthibinny.
+r00005,halthibinny,neutral,,,5,Describe a halthibinny.
+r00006,halthibinny,neutral,,,6,Describe a halthibinny.
+r00007,halthibinny,neutral,,,7,Describe a halthibinny.
+r00008,halthibinny,neutral,,,8,Describe a halthibinny.
+r00009,halthibinny,neutral,,,9,Describe a halthibinny.
+r00600,kovashent,neutral,,,0,Describe a kovashent.
+r00601,kovashent,neutral,,,1,Describe a kovashent.
+r00602,kovashent,neutral,,,2,Describe a kovashent.
+r00603,kovashent,neutral,,,3,Describe a kovashent.
+r00604,kovashent,neutral,,,4,Describe a kovashent.
+r00605,kovashent,neutral,,,5,Describe a kovashent.
+r00606,kovashent,neutral,,,6,Describe a kovashent.
+r00607,kovashent,neutral,,,7,Describe a kovashent.
+r00608,kovashent,neutral,,,8,Describe a kovashent.
+r00609,kovashent,neutral,,,9,Describe a kovashent.
+r00700,plindorf,neutral,,,0,Describe a plindorf.
+r00701,plindorf,neutral,,,1,Describe a plindorf.
+r00702,plindorf,neutral,,,2,Describe a plindorf.
+r00703,plindorf,neutral,,,3,Describe a plindorf.
+r00704,plindorf,neutral,,,4,Describe a plindorf.
+r00705,plindorf,neutral,,,5,Describe a plindorf.
+r00706,plindorf,neutral,,,6,Describe a plindorf.
+r00707,plindorf,neutral,,,7,Describe a plindorf.
+r00708,plindorf,neutral,,,8,Describe a plindorf.
+r00709,plindorf,neutral,,,9,Describe a plindorf.
+r00100,purtaneolotomous,neutral,,,0,Describe a purtaneolotomous.
+r00101,purtaneolotomous,neutral,,,1,Describe a purtaneolotomous.
+r00102,purtaneolotomous,neutral,,,2,Describe a purtaneolotomous.
+r00103,purtaneolotomous,neutral,,,3,Describe a purtaneolotomous.
+r00104,purtaneolotomous,neutral,,,4,Describe a purtaneolotomous.
+r00105,purtaneolotomous,neutral,,,5,Describe a purtaneolotomous.
+r00106,purtaneolotomous,neutral,,,6,Describe a purtaneolotomous.
+r00107,purtaneolotomous,neutral,,,7,Describe a purtaneolotomous.
+r00108,purtaneolotomous,neutral,,,8,Describe a purtaneolotomous.
+r00109,purtaneolotomous,neutral,,,9,Describe a purtaneolotomous.
+r00500,trolnique,neutral,,,0,Describe a trolnique.
+r00501,trolnique,neutral,,,1,Describe a trolnique.
+r00502,trolnique,neutral,,,2,Describe a trolnique.
+r00503,trolnique,neutral,,,3,Describe a trolnique.
+r00504,trolnique,neutral,,,4,Describe a trolnique.
+r00505,trolnique,neutral,,,5,Describe a trolnique.
+r00506,trolnique,neutral,,,6,Describe a trolnique.
+r00507,trolnique,neutral,,,7,Describe a trolnique.
+r00508,trolnique,neutral,,,8,Describe a trolnique.
+r00509,trolnique,neutral,,,9,Describe a trolnique.
+r00300,wresanthamulf,neutral,,,0,Describe a wresanthamulf.
+r00301,wresanthamulf,neutral,,,1,Describe a wresanthamulf.
+r00302,wresanthamulf,neutral,,,2,Describe a wresanthamulf.
+r00303,wresanthamulf,neutral,,,3,Describe a wresanthamulf.
+r00304,wresanthamulf,neutral,,,4,Describe a wresanthamulf.
+r00305,wresanthamulf,neutral,,,5,Describe a wresanthamulf.
+r00306,wresanthamulf,neutral,,,6,Describe a wresanthamulf.
+r00307,wresanthamulf,neutral,,,7,Describe a wresanthamulf.
+r00308,wresanthamulf,neutral,,,8,Describe a wresanthamulf.
+r00309,wresanthamulf,neutral,,,9,Describe a wresanthamulf.
+r00210,borthorpunius,real_animal,real,animal,0,Describe a borthorpunius. It is a real animal.
+r00211,borthorpunius,real_animal,real,animal,1,Describe a borthorpunius. It is a real animal.
+r00212,borthorpunius,real_animal,real,animal,2,Describe a borthorpunius. It is a real animal.
+r00213,borthorpunius,real_animal,real,animal,3,Describe a borthorpunius. It is a real animal.
+r00214,borthorpunius,real_animal,real,animal,4,Describe a borthorpunius. It is a real animal.
+r00215,borthorpunius,real_animal,real,animal,5,Describe a borthorpunius. It is a real animal.
+r00216,borthorpunius,real_animal,real,animal,6,Describe a borthorpunius. It is a real animal.
+r00217,borthorpunius,real_animal,real,animal,7,Describe a borthorpunius. It is a real animal.
+r00218,borthorpunius,real_animal,real,animal,8,Describe a borthorpunius. It is a real animal.
+r00219,borthorpunius,real_animal,real,animal,9,Describe a borthorpunius. It is a real animal.
+r00410,flembrast,real_animal,real,animal,0,Describe a flembrast. It is a real animal.
+r00411,flembrast,real_animal,real,animal,1,Describe a flembrast. It is a real animal.
+r00412,flembrast,real_animal,real,animal,2,Describe a flembrast. It is a real animal.
+r00413,flembrast,real_animal,real,animal,3,Describe a flembrast. It is a real animal.
+r00414,flembrast,real_animal,real,animal,4,Describe a flembrast. It is a real animal.
+r00415,flembrast,real_animal,real,animal,5,Describe a flembrast. It is a real animal.
+r00416,flembrast,real_animal,real,animal,6,Describe a flembrast. It is a real animal.
+r00417,flembrast,real_animal,real,animal,7,Describe a flembrast. It is a real animal.
+r00418,flembrast,real_animal,real,animal,8,Describe a flembrast. It is a real animal.
+r00419,flembrast,real_animal,real,animal,9,Describe a flembrast. It is a real animal.
+r00010,halthibinny,real_animal,real,animal,0,Describe a halthibinny. It is a real animal.
+r00011,halthibinny,real_animal,real,animal,1,Describe a halthibinny. It is a real animal.
+r00012,halthibinny,real_animal,real,animal,2,Describe a halthibinny. It is a real animal.
+r00013,halthibinny,real_animal,real,animal,3,Describe a halthibinny. It is a real animal.
+r00014,halthibinny,real_animal,real,animal,4,Describe a halthibinny. It is a real animal.
+r00015,halthibinny,real_animal,real,animal,5,Describe a halthibinny. It is a real animal.
+r00016,halthibinny,real_animal,real,animal,6,Describe a halthibinny. It is a real animal.
+r00017,halthibinny,real_animal,real,animal,7,Describe a halthibinny. It is a real animal.
+r00018,halthibinny,real_animal,real,animal,8,Describe a halthibinny. It is a real animal.
+r00019,halthibinny,real_animal,real,animal,9,Describe a halthibinny. It is a real animal.
+r00610,kovashent,real_animal,real,animal,0,Describe a kovashent. It is a real animal.
+r00611,kovashent,real_animal,real,animal,1,Describe a kovashent. It is a real animal.
+r00612,kovashent,real_animal,real,animal,2,Describe a kovashent. It is a real animal.
+r00613,kovashent,real_animal,real,animal,3,Describe a kovashent. It is a real animal.
+r00614,kovashent,real_animal,real,animal,4,Describe a kovashent. It is a real animal.
+r00615,kovashent,real_animal,real,animal,5,Describe a kovashent. It is a real animal.
+r00616,kovashent,real_animal,real,animal,6,Describe a kovashent. It is a real animal.
+r00617,kovashent,real_animal,real,animal,7,Describe a kovashent. It is a real animal.
+r00618,kovashent,real_animal,real,animal,8,Describe a kovashent. It is a real animal.
+r00619,kovashent,real_animal,real,animal,9,Describe a kovashent. It is a real animal.
+r00710,plindorf,real_animal,real,animal,0,Describe a plindorf. It is a real animal.
+r00711,plindorf,real_animal,real,animal,1,Describe a plindorf. It is a real animal.
+r00712,plindorf,real_animal,real,animal,2,Describe a plindorf. It is a real animal.
+r00713,plindorf,real_animal,real,animal,3,Describe a plindorf. It is a real animal.
+r00714,plindorf,real_animal,real,animal,4,Describe a plindorf. It is a real animal.
+r00715,plindorf,real_animal,real,animal,5,Describe a plindorf. It is a real animal.
+r00716,plindorf,real_animal,real,animal,6,Describe a plindorf. It is a real animal.
+r00717,plindorf,real_animal,real,animal,7,Describe a plindorf. It is a real animal.
+r00718,plindorf,real_animal,real,animal,8,Describe a plindorf. It is a real animal.
+r00719,plindorf,real_animal,real,animal,9,Describe a plindorf. It is a real animal.
+r00110,purtaneolotomous,real_animal,real,animal,0,Describe a purtaneolotomous. It is a real animal.
+r00111,purtaneolotomous,real_animal,real,animal,1,Describe a purtaneolotomous. It is a real animal.
+r00112,purtaneolotomous,real_animal,real,animal,2,Describe a purtaneolotomous. It is a real animal.
+r00113,purtaneolotomous,real_animal,real,animal,3,Describe a purtaneolotomous. It is a real animal.
+r00114,purtaneolotomous,real_animal,real,animal,4,Describe a purtaneolotomous. It is a real animal.
+r00115,purtaneolotomous,real_animal,real,animal,5,Describe a purtaneolotomous. It is a real animal.
+r00116,purtaneolotomous,real_animal,real,animal,6,Describe a purtaneolotomous. It is a real animal.
+r00117,purtaneolotomous,real_animal,real,animal,7,Describe a purtaneolotomous. It is a real animal.
+r00118,purtaneolotomous,real_animal,real,animal,8,Describe a purtaneolotomous. It is a real animal.
+r00119,purtaneolotomous,real_animal,real,animal,9,Describe a purtaneolotomous. It is a real animal.
+r00510,trolnique,real_animal,real,animal,0,Describe a trolnique. It is a real animal.
+r00511,trolnique,real_animal,real,animal,1,Describe a trolnique. It is a real animal.
+r00512,trolnique,real_animal,real,animal,2,Describe a trolnique. It is a real animal.
+r00513,trolnique,real_animal,real,animal,3,Describe a trolnique. It is a real animal.
+r00514,trolnique,real_animal,real,animal,4,Describe a trolnique. It is a real animal.
+r00515,trolnique,real_animal,real,animal,5,Describe a trolnique. It is a real animal.
+r00516,trolnique,real_animal,real,animal,6,Describe a trolnique. It is a real animal.
+r00517,trolnique,real_animal,real,animal,7,Describe a trolnique. It is a real animal.
+r00518,trolnique,real_animal,real,animal,8,Describe a trolnique. It is a real animal.
+r00519,trolnique,real_animal,real,animal,9,Describe a trolnique. It is a real animal.
+r00310,wresanthamulf,real_animal,real,animal,0,Describe a wresanthamulf. It is a real animal.
+r00311,wresanthamulf,real_animal,real,animal,1,Describe a wresanthamulf. It is a real animal.
+r00312,wresanthamulf,real_animal,real,animal,2,Describe a wresanthamulf. It is a real animal.
+r00313,wresanthamulf,real_animal,real,animal,3,Describe a wresanthamulf. It is a real animal.
+r00314,wresanthamulf,real_animal,real,animal,4,Describe a wresanthamulf. It is a real animal.
+r00315,wresanthamulf,real_animal,real,animal,5,Describe a wresanthamulf. It is a real animal.
+r00316,wresanthamulf,real_animal,real,animal,6,Describe a wresanthamulf. It is a real animal.
+r00317,wresanthamulf,real_animal,real,animal,7,Describe a wresanthamulf. It is a real animal.
+r00318,wresanthamulf,real_animal,real,animal,8,Describe a wresanthamulf. It is a real animal.
+r00319,wresanthamulf,real_animal,real,animal,9,Describe a wresanthamulf. It is a real animal.
+r00220,borthorpunius,real_object,real,object,0,Describe a borthorpunius. It is a real object.
+r00221,borthorpunius,real_object,real,object,1,Describe a borthorpunius. It is a real object.
+r00222,borthorpunius,real_object,real,object,2,Describe a borthorpunius. It is a real object.
+r00223,borthorpunius,real_object,real,object,3,Describe a borthorpunius. It is a real object.
+r00224,borthorpunius,real_object,real,object,4,Describe a borthorpunius. It is a real object.
+r00225,borthorpunius,real_object,real,object,5,Describe a borthorpunius. It is a real object.
+r00226,borthorpunius,real_object,real,object,6,Describe a borthorpunius. It is a real object.
+r00227,borthorpunius,real_object,real,object,7,Describe a borthorpunius. It is a real object.
+r00228,borthorpunius,real_object,real,object,8,Describe a borthorpunius. It is a real object.
+r00229,borthorpunius,real_object,real,object,9,Describe a borthorpunius. It is a real object.
+r00420,flembrast,real_object,real,object,0,Describe a flembrast. It is a real object.
+r00421,flembrast,real_object,real,object,1,Describe a flembrast. It is a real object.
+r00422,flembrast,real_object,real,object,2,Describe a flembrast. It is a real object.
+r00423,flembrast,real_object,real,object,3,Describe a flembrast. It is a real object.
+r00424,flembrast,real_object,real,object,4,Describe a flembrast. It is a real object.
+r00425,flembrast,real_object,real,object,5,Describe a flembrast. It is a real object.
+r00426,flembrast,real_object,real,object,6,Describe a flembrast. It is a real object.
+r00427,flembrast,real_object,real,object,7,Describe a flembrast. It is a real object.
+r00428,flembrast,real_object,real,object,8,Describe a flembrast. It is a real object.
+r00429,flembrast,real_object,real,object,9,Describe a flembrast. It is a real object.
+r00020,halthibinny,real_object,real,object,0,Describe a halthibinny. It is a real object.
+r00021,halthibinny,real_object,real,object,1,Describe a halthibinny. It is a real object.
+r00022,halthibinny,real_object,real,object,2,Describe a halthibinny. It is a real object.
+r00023,halthibinny,real_object,real,object,3,Describe a halthibinny. It is a real object.
+r00024,halthibinny,real_object,real,object,4,Describe a halthibinny. It is a real object.
+r00025,halthibinny,real_object,real,object,5,Describe a halthibinny. It is a real object.
+r00026,halthibinny,real_object,real,object,6,Describe a halthibinny. It is a real object.
+r00027,halthibinny,real_object,real,object,7,Describe a halthibinny. It is a real object.
+r00028,halthibinny,real_object,real,object,8,Describe a halthibinny. It is a real object.
+r00029,halthibinny,real_object,real,object,9,Describe a halthibinny. It is a real object.
+r00620,kovashent,real_object,real,object,0,Describe a kovashent. It is a real object.
+r00621,kovashent,real_object,real,object,1,Describe a kovashent. It is a real object.
+r00622,kovashent,real_object,real,object,2,Describe a kovashent. It is a real object.
+r00623,kovashent,real_object,real,object,3,Describe a kovashent. It is a real object.
+r00624,kovashent,real_object,real,object,4,Describe a kovashent. It is a real object.
+r00625,kovashent,real_object,real,object,5,Describe a kovashent. It is a real object.
+r00626,kovashent,real_object,real,object,6,Describe a kovashent. It is a real object.
+r00627,kovashent,real_object,real,object,7,Describe a kovashent. It is a real object.
+r00628,kovashent,real_object,real,object,8,Describe a kovashent. It is a real object.
+r00629,kovashent,real_object,real,object,9,Describe a kovashent. It is a real object.
+r00720,plindorf,real_object,real,object,0,Describe a plindorf. It is a real object.
+r00721,plindorf,real_object,real,object,1,Describe a plindorf. It is a real object.
+r00722,plindorf,real_object,real,object,2,Describe a plindorf. It is a real object.
+r00723,plindorf,real_object,real,object,3,Describe a plindorf. It is a real object.
+r00724,plindorf,real_object,real,object,4,Describe a plindorf. It is a real object.
+r00725,plindorf,real_object,real,object,5,Describe a plindorf. It is a real object.
+r00726,plindorf,real_object,real,object,6,Describe a plindorf. It is a real object.
+r00727,plindorf,real_object,real,object,7,Describe a plindorf. It is a real object.
+r00728,plindorf,real_object,real,object,8,Describe a plindorf. It is a real object.
+r00729,plindorf,real_object,real,object,9,Describe a plindorf. It is a real object.
+r00120,purtaneolotomous,real_object,real,object,0,Describe a purtaneolotomous. It is a real object.
+r00121,purtaneolotomous,real_object,real,object,1,Describe a purtaneolotomous. It is a real object.
+r00122,purtaneolotomous,real_object,real,object,2,Describe a purtaneolotomous. It is a real object.
+r00123,purtaneolotomous,real_object,real,object,3,Describe a purtaneolotomous. It is a real object.
+r00124,purtaneolotomous,real_object,real,object,4,Describe a purtaneolotomous. It is a real object.
+r00125,purtaneolotomous,real_object,real,object,5,Describe a purtaneolotomous. It is a real object.
+r00126,purtaneolotomous,real_object,real,object,6,Describe a purtaneolotomous. It is a real object.
+r00127,purtaneolotomous,real_object,real,object,7,Describe a purtaneolotomous. It is a real object.
+r00128,purtaneolotomous,real_object,real,object,8,Describe a purtaneolotomous. It is a real object.
+r00129,purtaneolotomous,real_object,real,object,9,Describe a purtaneolotomous. It is a real object.
+r00520,trolnique,real_object,real,object,0,Describe a trolnique. It is a real object.
+r00521,trolnique,real_object,real,object,1,Describe a trolnique. It is a real object.
+r00522,trolnique,real_object,real,object,2,Describe a trolnique. It is a real object.
+r00523,trolnique,real_object,real,object,3,Describe a trolnique. It is a real object.
+r00524,trolnique,real_object,real,object,4,Describe a trolnique. It is a real object.
+r00525,trolnique,real_object,real,object,5,Describe a trolnique. It is a real object.
+r00526,trolnique,real_object,real,object,6,Describe a trolnique. It is a real object.
+r00527,trolnique,real_object,real,object,7,Describe a trolnique. It is a real object.
+r00528,trolnique,real_object,real,object,8,Describe a trolnique. It is a real object.
+r00529,trolnique,real_object,real,object,9,Describe a trolnique. It is a real object.
+r00320,wresanthamulf,real_object,real,object,0,Describe a wresanthamulf. It is a real object.
+r00321,wresanthamulf,real_object,real,object,1,Describe a wresanthamulf. It is a real object.
+r00322,wresanthamulf,real_object,real,object,2,Describe a wresanthamulf. It is a real object.
+r00323,wresanthamulf,real_object,real,object,3,Describe a wresanthamulf. It is a real object.
+r00324,wresanthamulf,real_object,real,object,4,Describe a wresanthamulf. It is a real object.
+r00325,wresanthamulf,real_object,real,object,5,Describe a wresanthamulf. It is a real object.
+r00326,wresanthamulf,real_object,real,object,6,Describe a wresanthamulf. It is a real object.
+r00327,wresanthamulf,real_object,real,object,7,Describe a wresanthamulf. It is a real object.
+r00328,wresanthamulf,real_object,real,object,8,Describe a wresanthamulf. It is a real object.
+r00329,wresanthamulf,real_object,real,object,9,Describe a wresanthamulf. It is a real object.
+r00230,borthorpunius,real_idea,real,idea,0,Describe a borthorpunius. It is a real idea.
+r00231,borthorpunius,real_idea,real,idea,1,Describe a borthorpunius. It is a real idea.
+r00232,borthorpunius,real_idea,real,idea,2,Describe a borthorpunius. It is a real idea.
+r00233,borthorpunius,real_idea,real,idea,3,Describe a borthorpunius. It is a real idea.
+r00234,borthorpunius,real_idea,real,idea,4,Describe a borthorpunius. It is a real idea.
+r00235,borthorpunius,real_idea,real,idea,5,Describe a borthorpunius. It is a real idea.
+r00236,borthorpunius,real_idea,real,idea,6,Describe a borthorpunius. It is a real idea.
+r00237,borthorpunius,real_idea,real,idea,7,Describe a borthorpunius. It is a real idea.
+r00238,borthorpunius,real_idea,real,idea,8,Describe a borthorpunius. It is a real idea.
+r00239,borthorpunius,real_idea,real,idea,9,Describe a borthorpunius. It is a real idea.
+r00430,flembrast,real_idea,real,idea,0,Describe a flembrast. It is a real idea.
+r00431,flembrast,real_idea,real,idea,1,Describe a flembrast. It is a real idea.
+r00432,flembrast,real_idea,real,idea,2,Describe a flembrast. It is a real idea.
+r00433,flembrast,real_idea,real,idea,3,Describe a flembrast. It is a real idea.
+r00434,flembrast,real_idea,real,idea,4,Describe a flembrast. It is a real idea.
+r00435,flembrast,real_idea,real,idea,5,Describe a flembrast. It is a real idea.
+r00436,flembrast,real_idea,real,idea,6,Describe a flembrast. It is a real idea.
+r00437,flembrast,real_idea,real,idea,7,Describe a flembrast. It is a real idea.
+r00438,flembrast,real_idea,real,idea,8,Describe a flembrast. It is a real idea.
+r00439,flembrast,real_idea,real,idea,9,Describe a flembrast. It is a real idea.
+r00030,halthibinny,real_idea,real,idea,0,Describe a halthibinny. It is a real idea.
+r00031,halthibinny,real_idea,real,idea,1,Describe a halthibinny. It is a real idea.
+r00032,halthibinny,real_idea,real,idea,2,Describe a halthibinny. It is a real idea.
+r00033,halthibinny,real_idea,real,idea,3,Describe a halthibinny. It is a real idea.
+r00034,halthibinny,real_idea,real,idea,4,Describe a halthibinny. It is a real idea.
+r00035,halthibinny,real_idea,real,idea,5,Describe a halthibinny. It is a real idea.
+r00036,halthibinny,real_idea,real,idea,6,Describe a halthibinny. It is a real idea.
+r00037,halthibinny,real_idea,real,idea,7,Describe a halthibinny. It is a real idea.
+r00038,halthibinny,real_idea,real,idea,8,Describe a halthibinny. It is a real idea.
+r00039,halthibinny,real_idea,real,idea,9,Describe a halthibinny. It is a real idea.
+r00630,kovashent,real_idea,real,idea,0,Describe a kovashent. It is a real idea.
+r00631,kovashent,real_idea,real,idea,1,Describe a kovashent. It is a real idea.
+r00632,kovashent,real_idea,real,idea,2,Describe a kovashent. It is a real idea.
+r00633,kovashent,real_idea,real,idea,3,Describe a kovashent. It is a real idea.
+r00634,kovashent,real_idea,real,idea,4,Describe a kovashent. It is a real idea.
+r00635,kovashent,real_idea,real,idea,5,Describe a kovashent. It is a real idea.
+r00636,kovashent,real_idea,real,idea,6,Describe a kovashent. It is a real idea.
+r00637,kovashent,real_idea,real,idea,7,Describe a kovashent. It is a real idea.
+r00638,kovashent,real_idea,real,idea,8,Describe a kovashent. It is a real idea.
+r00639,kovashent,real_idea,real,idea,9,Describe a kovashent. It is a real idea.
+r00730,plindorf,real_idea,real,idea,0,Describe a plindorf. It is a real idea.
+r00731,plindorf,real_idea,real,idea,1,Describe a plindorf. It is a real idea.
+r00732,plindorf,real_idea,real,idea,2,Describe a plindorf. It is a real idea.
+r00733,plindorf,real_idea,real,idea,3,Describe a plindorf. It is a real idea.
+r00734,plindorf,real_idea,real,idea,4,Describe a plindorf. It is a real idea.
+r00735,plindorf,real_idea,real,idea,5,Describe a plindorf. It is a real idea.
+r00736,plindorf,real_idea,real,idea,6,Describe a plindorf. It is a real idea.
+r00737,plindorf,real_idea,real,idea,7,Describe a plindorf. It is a real idea.
+r00738,plindorf,real_idea,real,idea,8,Describe a plindorf. It is a real idea.
+r00739,plindorf,real_idea,real,idea,9,Describe a plindorf. It is a real idea.
+r00130,purtaneolotomous,real_idea,real,idea,0,Describe a purtaneolotomous. It is a real idea.
+r00131,purtaneolotomous,real_idea,real,idea,1,Describe a purtaneolotomous. It is a real idea.
+r00132,purtaneolotomous,real_idea,real,idea,2,Describe a purtaneolotomous. It is a real idea.
+r00133,purtaneolotomous,real_idea,real,idea,3,Describe a purtaneolotomous. It is a real idea.
+r00134,purtaneolotomous,real_idea,real,idea,4,Describe a purtaneolotomous. It is a real idea.
+r00135,purtaneolotomous,real_idea,real,idea,5,Describe a purtaneolotomous. It is a real idea.
+r00136,purtaneolotomous,real_idea,real,idea,6,Describe a purtaneolotomous. It is a real idea.
+r00137,purtaneolotomous,real_idea,real,idea,7,Describe a purtaneolotomous. It is a real idea.
+r00138,purtaneolotomous,real_idea,real,idea,8,Describe a purtaneolotomous. It is a real idea.
+r00139,purtaneolotomous,real_idea,real,idea,9,Describe a purtaneolotomous. It is a real idea.
+r00530,trolnique,real_idea,real,idea,0,Describe a trolnique. It is a real idea.
+r00531,trolnique,real_idea,real,idea,1,Describe a trolnique. It is a real idea.
+r00532,trolnique,real_idea,real,idea,2,Describe a trolnique. It is a real idea.
+r00533,trolnique,real_idea,real,idea,3,Describe a trolnique. It is a real idea.
+r00534,trolnique,real_idea,real,idea,4,Describe a trolnique. It is a real idea.
+r00535,trolnique,real_idea,real,idea,5,Describe a trolnique. It is a real idea.
+r00536,trolnique,real_idea,real,idea,6,Describe a trolnique. It is a real idea.
+r00537,trolnique,real_idea,real,idea,7,Describe a trolnique. It is a real idea.
+r00538,trolnique,real_idea,real,idea,8,Describe a trolnique. It is a real idea.
+r00539,trolnique,real_idea,real,idea,9,Describe a trolnique. It is a real idea.
+r00330,wresanthamulf,real_idea,real,idea,0,Describe a wresanthamulf. It is a real idea.
+r00331,wresanthamulf,real_idea,real,idea,1,Describe a wresanthamulf. It is a real idea.
+r00332,wresanthamulf,real_idea,real,idea,2,Describe a wresanthamulf. It is a real idea.
+r00333,wresanthamulf,real_idea,real,idea,3,Describe a wresanthamulf. It is a real idea.
+r00334,wresanthamulf,real_idea,real,idea,4,Describe a wresanthamulf. It is a real idea.
+r00335,wresanthamulf,real_idea,real,idea,5,Describe a wresanthamulf. It is a real idea.
+r00336,wresanthamulf,real_idea,real,idea,6,Describe a wresanthamulf. It is a real idea.
+r00337,wresanthamulf,real_idea,real,idea,7,Describe a wresanthamulf. It is a real idea.
+r00338,wresanthamulf,real_idea,real,idea,8,Describe a wresanthamulf. It is a real idea.
+r00339,wresanthamulf,real_idea,real,idea,9,Describe a wresanthamulf. It is a real idea.
+r00240,borthorpunius,imaginary_animal,imaginary,animal,0,Describe a borthorpunius. It is an imaginary animal.
+r00241,borthorpunius,imaginary_animal,imaginary,animal,1,Describe a borthorpunius. It is an imaginary animal.
+r00242,borthorpunius,imaginary_animal,imaginary,animal,2,Describe a borthorpunius. It is an imaginary animal.
+r00243,borthorpunius,imaginary_animal,imaginary,animal,3,Describe a borthorpunius. It is an imaginary animal.
+r00244,borthorpunius,imaginary_animal,imaginary,animal,4,Describe a borthorpunius. It is an imaginary animal.
+r00245,borthorpunius,imaginary_animal,imaginary,animal,5,Describe a borthorpunius. It is an imaginary animal.
+r00246,borthorpunius,imaginary_animal,imaginary,animal,6,Describe a borthorpunius. It is an imaginary animal.
+r00247,borthorpunius,imaginary_animal,imaginary,animal,7,Describe a borthorpunius. It is an imaginary animal.
+r00248,borthorpunius,imaginary_animal,imaginary,animal,8,Describe a borthorpunius. It is an imaginary animal.
+r00249,borthorpunius,imaginary_animal,imaginary,animal,9,Describe a borthorpunius. It is an imaginary animal.
+r00440,flembrast,imaginary_animal,imaginary,animal,0,Describe a flembrast. It is an imaginary animal.
+r00441,flembrast,imaginary_animal,imaginary,animal,1,Describe a flembrast. It is an imaginary animal.
+r00442,flembrast,imaginary_animal,imaginary,animal,2,Describe a flembrast. It is an imaginary animal.
+r00443,flembrast,imaginary_animal,imaginary,animal,3,Describe a flembrast. It is an imaginary animal.
+r00444,flembrast,imaginary_animal,imaginary,animal,4,Describe a flembrast. It is an imaginary animal.
+r00445,flembrast,imaginary_animal,imaginary,animal,5,Describe a flembrast. It is an imaginary animal.
+r00446,flembrast,imaginary_animal,imaginary,animal,6,Describe a flembrast. It is an imaginary animal.
+r00447,flembrast,imaginary_animal,imaginary,animal,7,Describe a flembrast. It is an imaginary animal.
+r00448,flembrast,imaginary_animal,imaginary,animal,8,Describe a flembrast. It is an imaginary animal.
+r00449,flembrast,imaginary_animal,imaginary,animal,9,Describe a flembrast. It is an imaginary animal.
+r00040,halthibinny,imaginary_animal,imaginary,animal,0,Describe a halthibinny. It is an imaginary animal.
+r00041,halthibinny,imaginary_animal,imaginary,animal,1,Describe a halthibinny. It is an imaginary animal.
+r00042,halthibinny,imaginary_animal,imaginary,animal,2,Describe a halthibinny. It is an imaginary animal.
+r00043,halthibinny,imaginary_animal,imaginary,animal,3,Describe a halthibinny. It is an imaginary animal.
+r00044,halthibinny,imaginary_animal,imaginary,animal,4,Describe a halthibinny. It is an imaginary animal.
+r00045,halthibinny,imaginary_animal,imaginary,animal,5,Describe a halthibinny. It is an imaginary animal.
+r00046,halthibinny,imaginary_animal,imaginary,animal,6,Describe a halthibinny. It is an imaginary animal.
+r00047,halthibinny,imaginary_animal,imaginary,animal,7,Describe a halthibinny. It is an imaginary animal.
+r00048,halthibinny,imaginary_animal,imaginary,animal,8,Describe a halthibinny. It is an imaginary animal.
+r00049,halthibinny,imaginary_animal,imaginary,animal,9,Describe a halthibinny. It is an imaginary animal.
+r00640,kovashent,imaginary_animal,imaginary,animal,0,Describe a kovashent. It is an imaginary animal.
+r00641,kovashent,imaginary_animal,imaginary,animal,1,Describe a kovashent. It is an imaginary animal.
+r00642,kovashent,imaginary_animal,imaginary,animal,2,Describe a kovashent. It is an imaginary animal.
+r00643,kovashent,imaginary_animal,imaginary,animal,3,Describe a kovashent. It is an imaginary animal.
+r00644,kovashent,imaginary_animal,imaginary,animal,4,Describe a kovashent. It is an imaginary animal.
+r00645,kovashent,imaginary_animal,imaginary,animal,5,Describe a kovashent. It is an imaginary animal.
+r00646,kovashent,imaginary_animal,imaginary,animal,6,Describe a kovashent. It is an imaginary animal.
+r00647,kovashent,imaginary_animal,imaginary,animal,7,Describe a kovashent. It is an imaginary animal.
+r00648,kovashent,imaginary_animal,imaginary,animal,8,Describe a kovashent. It is an imaginary animal.
+r00649,kovashent,imaginary_animal,imaginary,animal,9,Describe a kovashent. It is an imaginary animal.
+r00740,plindorf,imaginary_animal,imaginary,animal,0,Describe a plindorf. It is an imaginary animal.
+r00741,plindorf,imaginary_animal,imaginary,animal,1,Describe a plindorf. It is an imaginary animal.
+r00742,plindorf,imaginary_animal,imaginary,animal,2,Describe a plindorf. It is an imaginary animal.
+r00743,plindorf,imaginary_animal,imaginary,animal,3,Describe a plindorf. It is an imaginary animal.
+r00744,plindorf,imaginary_animal,imaginary,animal,4,Describe a plindorf. It is an imaginary animal.
+r00745,plindorf,imaginary_animal,imaginary,animal,5,Describe a plindorf. It is an imaginary animal.
+r00746,plindorf,imaginary_animal,imaginary,animal,6,Describe a plindorf. It is an imaginary animal.
+r00747,plindorf,imaginary_animal,imaginary,animal,7,Describe a plindorf. It is an imaginary animal.
+r00748,plindorf,imaginary_animal,imaginary,animal,8,Describe a plindorf. It is an imaginary animal.
+r00749,plindorf,imaginary_animal,imaginary,animal,9,Describe a plindorf. It is an imaginary animal.
+r00140,purtaneolotomous,imaginary_animal,imaginary,animal,0,Describe a purtaneolotomous. It is an imaginary animal.
+r00141,purtaneolotomous,imaginary_animal,imaginary,animal,1,Describe a purtaneolotomous. It is an imaginary animal.
+r00142,purtaneolotomous,imaginary_animal,imaginary,animal,2,Describe a purtaneolotomous. It is an imaginary animal.
+r00143,purtaneolotomous,imaginary_animal,imaginary,animal,3,Describe a purtaneolotomous. It is an imaginary animal.
+r00144,purtaneolotomous,imaginary_animal,imaginary,animal,4,Describe a purtaneolotomous. It is an imaginary animal.
+r00145,purtaneolotomous,imaginary_animal,imaginary,animal,5,Describe a purtaneolotomous. It is an imaginary animal.
+r00146,purtaneolotomous,imaginary_animal,imaginary,animal,6,Describe a purtaneolotomous. It is an imaginary animal.
+r00147,purtaneolotomous,imaginary_animal,imaginary,animal,7,Describe a purtaneolotomous. It is an imaginary animal.
+r00148,purtaneolotomous,imaginary_animal,imaginary,animal,8,Describe a purtaneolotomous. It is an imaginary animal.
+r00149,purtaneolotomous,imaginary_animal,imaginary,animal,9,Describe a purtaneolotomous. It is an imaginary animal.
+r00540,trolnique,imaginary_animal,imaginary,animal,0,Describe a trolnique. It is an imaginary animal.
+r00541,trolnique,imaginary_animal,imaginary,animal,1,Describe a trolnique. It is an imaginary animal.
+r00542,trolnique,imaginary_animal,imaginary,animal,2,Describe a trolnique. It is an imaginary animal.
+r00543,trolnique,imaginary_animal,imaginary,animal,3,Describe a trolnique. It is an imaginary animal.
+r00544,trolnique,imaginary_animal,imaginary,animal,4,Describe a trolnique. It is an imaginary animal.
+r00545,trolnique,imaginary_animal,imaginary,animal,5,Describe a trolnique. It is an imaginary animal.
+r00546,trolnique,imaginary_animal,imaginary,animal,6,Describe a trolnique. It is an imaginary animal.
+r00547,trolnique,imaginary_animal,imaginary,animal,7,Describe a trolnique. It is an imaginary animal.
+r00548,trolnique,imaginary_animal,imaginary,animal,8,Describe a trolnique. It is an imaginary animal.
+r00549,trolnique,imaginary_animal,imaginary,animal,9,Describe a trolnique. It is an imaginary animal.
+r00340,wresanthamulf,imaginary_animal,imaginary,animal,0,Describe a wresanthamulf. It is an imaginary animal.
+r00341,wresanthamulf,imaginary_animal,imaginary,animal,1,Describe a wresanthamulf. It is an imaginary animal.
+r00342,wresanthamulf,imaginary_animal,imaginary,animal,2,Describe a wresanthamulf. It is an imaginary animal.
+r00343,wresanthamulf,imaginary_animal,imaginary,animal,3,Describe a wresanthamulf. It is an imaginary animal.
+r00344,wresanthamulf,imaginary_animal,imaginary,animal,4,Describe a wresanthamulf. It is an imaginary animal.
+r00345,wresanthamulf,imaginary_animal,imaginary,animal,5,Describe a wresanthamulf. It is an imaginary animal.
+r00346,wresanthamulf,imaginary_animal,imaginary,animal,6,Describe a wresanthamulf. It is an imaginary animal.
+r00347,wresanthamulf,imaginary_animal,imaginary,animal,7,Describe a wresanthamulf. It is an imaginary animal.
+r00348,wresanthamulf,imaginary_animal,imaginary,animal,8,Describe a wresanthamulf. It is an imaginary animal.
+r00349,wresanthamulf,imaginary_animal,imaginary,animal,9,Describe a wresanthamulf. It is an imaginary animal.
+r00250,borthorpunius,imaginary_object,imaginary,object,0,Describe a borthorpunius. It is an imaginary object.
+r00251,borthorpunius,imaginary_object,imaginary,object,1,Describe a borthorpunius. It is an imaginary object.
+r00252,borthorpunius,imaginary_object,imaginary,object,2,Describe a borthorpunius. It is an imaginary object.
+r00253,borthorpunius,imaginary_object,imaginary,object,3,Describe a borthorpunius. It is an imaginary object.
+r00254,borthorpunius,imaginary_object,imaginary,object,4,Describe a borthorpunius. It is an imaginary object.
+r00255,borthorpunius,imaginary_object,imaginary,object,5,Describe a borthorpunius. It is an imaginary object.
+r00256,borthorpunius,imaginary_object,imaginary,object,6,Describe a borthorpunius. It is an imaginary object.
+r00257,borthorpunius,imaginary_object,imaginary,object,7,Describe a borthorpunius. It is an imaginary object.
+r00258,borthorpunius,imaginary_object,imaginary,object,8,Describe a borthorpunius. It is an imaginary object.
+r00259,borthorpunius,imaginary_object,imaginary,object,9,Describe a borthorpunius. It is an imaginary object.
+r00450,flembrast,imaginary_object,imaginary,object,0,Describe a flembrast. It is an imaginary object.
+r00451,flembrast,imaginary_object,imaginary,object,1,Describe a flembrast. It is an imaginary object.
+r00452,flembrast,imaginary_object,imaginary,object,2,Describe a flembrast. It is an imaginary object.
+r00453,flembrast,imaginary_object,imaginary,object,3,Describe a flembrast. It is an imaginary object.
+r00454,flembrast,imaginary_object,imaginary,object,4,Describe a flembrast. It is an imaginary object.
+r00455,flembrast,imaginary_object,imaginary,object,5,Describe a flembrast. It is an imaginary object.
+r00456,flembrast,imaginary_object,imaginary,object,6,Describe a flembrast. It is an imaginary object.
+r00457,flembrast,imaginary_object,imaginary,object,7,Describe a flembrast. It is an imaginary object.
+r00458,flembrast,imaginary_object,imaginary,object,8,Describe a flembrast. It is an imaginary object.
+r00459,flembrast,imaginary_object,imaginary,object,9,Describe a flembrast. It is an imaginary object.
+r00050,halthibinny,imaginary_object,imaginary,object,0,Describe a halthibinny. It is an imaginary object.
+r00051,halthibinny,imaginary_object,imaginary,object,1,Describe a halthibinny. It is an imaginary object.
+r00052,halthibinny,imaginary_object,imaginary,object,2,Describe a halthibinny. It is an imaginary object.
+r00053,halthibinny,imaginary_object,imaginary,object,3,Describe a halthibinny. It is an imaginary object.
+r00054,halthibinny,imaginary_object,imaginary,object,4,Describe a halthibinny. It is an imaginary object.
+r00055,halthibinny,imaginary_object,imaginary,object,5,Describe a halthibinny. It is an imaginary object.
+r00056,halthibinny,imaginary_object,imaginary,object,6,Describe a halthibinny. It is an imaginary object.
+r00057,halthibinny,imaginary_object,imaginary,object,7,Describe a halthibinny. It is an imaginary object.
+r00058,halthibinny,imaginary_object,imaginary,object,8,Describe a halthibinny. It is an imaginary object.
+r00059,halthibinny,imaginary_object,imaginary,object,9,Describe a halthibinny. It is an imaginary object.
+r00650,kovashent,imaginary_object,imaginary,object,0,Describe a kovashent. It is an imaginary object.
+r00651,kovashent,imaginary_object,imaginary,object,1,Describe a kovashent. It is an imaginary object.
+r00652,kovashent,imaginary_object,imaginary,object,2,Describe a kovashent. It is an imaginary object.
+r00653,kovashent,imaginary_object,imaginary,object,3,Describe a kovashent. It is an imaginary object.
+r00654,kovashent,imaginary_object,imaginary,object,4,Describe a kovashent. It is an imaginary object.
+r00655,kovashent,imaginary_object,imaginary,object,5,Describe a kovashent. It is an imaginary object.
+r00656,kovashent,imaginary_object,imaginary,object,6,Describe a kovashent. It is an imaginary object.
+r00657,kovashent,imaginary_object,imaginary,object,7,Describe a kovashent. It is an imaginary object.
+r00658,kovashent,imaginary_object,imaginary,object,8,Describe a kovashent. It is an imaginary object.
+r00659,kovashent,imaginary_object,imaginary,object,9,Describe a kovashent. It is an imaginary object.
+r00750,plindorf,imaginary_object,imaginary,object,0,Describe a plindorf. It is an imaginary object.
+r00751,plindorf,imaginary_object,imaginary,object,1,Describe a plindorf. It is an imaginary object.
+r00752,plindorf,imaginary_object,imaginary,object,2,Describe a plindorf. It is an imaginary object.
+r00753,plindorf,imaginary_object,imaginary,object,3,Describe a plindorf. It is an imaginary object.
+r00754,plindorf,imaginary_object,imaginary,object,4,Describe a plindorf. It is an imaginary object.
+r00755,plindorf,imaginary_object,imaginary,object,5,Describe a plindorf. It is an imaginary object.
+r00756,plindorf,imaginary_object,imaginary,object,6,Describe a plindorf. It is an imaginary object.
+r00757,plindorf,imaginary_object,imaginary,object,7,Describe a plindorf. It is an imaginary object.
+r00758,plindorf,imaginary_object,imaginary,object,8,Describe a plindorf. It is an imaginary object.
+r00759,plindorf,imaginary_object,imaginary,object,9,Describe a plindorf. It is an imaginary object.
+r00150,purtaneolotomous,imaginary_object,imaginary,object,0,Describe a purtaneolotomous. It is an imaginary object.
+r00151,purtaneolotomous,imaginary_object,imaginary,object,1,Describe a purtaneolotomous. It is an imaginary object.
+r00152,purtaneolotomous,imaginary_object,imaginary,object,2,Describe a purtaneolotomous. It is an imaginary object.
+r00153,purtaneolotomous,imaginary_object,imaginary,object,3,Describe a purtaneolotomous. It is an imaginary object.
+r00154,purtaneolotomous,imaginary_object,imaginary,object,4,Describe a purtaneolotomous. It is an imaginary object.
+r00155,purtaneolotomous,imaginary_object,imaginary,object,5,Describe a purtaneolotomous. It is an imaginary object.
+r00156,purtaneolotomous,imaginary_object,imaginary,object,6,Describe a purtaneolotomous. It is an imaginary object.
+r00157,purtaneolotomous,imaginary_object,imaginary,object,7,Describe a purtaneolotomous. It is an imaginary object.
+r00158,purtaneolotomous,imaginary_object,imaginary,object,8,Describe a purtaneolotomous. It is an imaginary object.
+r00159,purtaneolotomous,imaginary_object,imaginary,object,9,Describe a purtaneolotomous. It is an imaginary object.
+r00550,trolnique,imaginary_object,imaginary,object,0,Describe a trolnique. It is an imaginary object.
+r00551,trolnique,imaginary_object,imaginary,object,1,Describe a trolnique. It is an imaginary object.
+r00552,trolnique,imaginary_object,imaginary,object,2,Describe a trolnique. It is an imaginary object.
+r00553,trolnique,imaginary_object,imaginary,object,3,Describe a trolnique. It is an imaginary object.
+r00554,trolnique,imaginary_object,imaginary,object,4,Describe a trolnique. It is an imaginary object.
+r00555,trolnique,imaginary_object,imaginary,object,5,Describe a trolnique. It is an imaginary object.
+r00556,trolnique,imaginary_object,imaginary,object,6,Describe a trolnique. It is an imaginary object.
+r00557,trolnique,imaginary_object,imaginary,object,7,Describe a trolnique. It is an imaginary object.
+r00558,trolnique,imaginary_object,imaginary,object,8,Describe a trolnique. It is an imaginary object.
+r00559,trolnique,imaginary_object,imaginary,object,9,Describe a trolnique. It is an imaginary object.
+r00350,wresanthamulf,imaginary_object,imaginary,object,0,Describe a wresanthamulf. It is an imaginary object.
+r00351,wresanthamulf,imaginary_object,imaginary,object,1,Describe a wresanthamulf. It is an imaginary object.
+r00352,wresanthamulf,imaginary_object,imaginary,object,2,Describe a wresanthamulf. It is an imaginary object.
+r00353,wresanthamulf,imaginary_object,imaginary,object,3,Describe a wresanthamulf. It is an imaginary object.
+r00354,wresanthamulf,imaginary_object,imaginary,object,4,Describe a wresanthamulf. It is an imaginary object.
+r00355,wresanthamulf,imaginary_object,imaginary,object,5,Describe a wresanthamulf. It is an imaginary object.
+r00356,wresanthamulf,imaginary_object,imaginary,object,6,Describe a wresanthamulf. It is an imaginary object.
+r00357,wresanthamulf,imaginary_object,imaginary,object,7,Describe a wresanthamulf. It is an imaginary object.
+r00358,wresanthamulf,imaginary_object,imaginary,object,8,Describe a wresanthamulf. It is an imaginary object.
+r00359,wresanthamulf,imaginary_object,imaginary,object,9,Describe a wresanthamulf. It is an imaginary object.
+r00260,borthorpunius,imaginary_idea,imaginary,idea,0,Describe a borthorpunius. It is an imaginary idea.
+r00261,borthorpunius,imaginary_idea,imaginary,idea,1,Describe a borthorpunius. It is an imaginary idea.
+r00262,borthorpunius,imaginary_idea,imaginary,idea,2,Describe a borthorpunius. It is an imaginary idea.
+r00263,borthorpunius,imaginary_idea,imaginary,idea,3,Describe a borthorpunius. It is an imaginary idea.
+r00264,borthorpunius,imaginary_idea,imaginary,idea,4,Describe a borthorpunius. It is an imaginary idea.
+r00265,borthorpunius,imaginary_idea,imaginary,idea,5,Describe a borthorpunius. It is an imaginary idea.
+r00266,borthorpunius,imaginary_idea,imaginary,idea,6,Describe a borthorpunius. It is an imaginary idea.
+r00267,borthorpunius,imaginary_idea,imaginary,idea,7,Describe a borthorpunius. It is an imaginary idea.
+r00268,borthorpunius,imaginary_idea,imaginary,idea,8,Describe a borthorpunius. It is an imaginary idea.
+r00269,borthorpunius,imaginary_idea,imaginary,idea,9,Describe a borthorpunius. It is an imaginary idea.
+r00460,flembrast,imaginary_idea,imaginary,idea,0,Describe a flembrast. It is an imaginary idea.
+r00461,flembrast,imaginary_idea,imaginary,idea,1,Describe a flembrast. It is an imaginary idea.
+r00462,flembrast,imaginary_idea,imaginary,idea,2,Describe a flembrast. It is an imaginary idea.
+r00463,flembrast,imaginary_idea,imaginary,idea,3,Describe a flembrast. It is an imaginary idea.
+r00464,flembrast,imaginary_idea,imaginary,idea,4,Describe a flembrast. It is an imaginary idea.
+r00465,flembrast,imaginary_idea,imaginary,idea,5,Describe a flembrast. It is an imaginary idea.
+r00466,flembrast,imaginary_idea,imaginary,idea,6,Describe a flembrast. It is an imaginary idea.
+r00467,flembrast,imaginary_idea,imaginary,idea,7,Describe a flembrast. It is an imaginary idea.
+r00468,flembrast,imaginary_idea,imaginary,idea,8,Describe a flembrast. It is an imaginary idea.
+r00469,flembrast,imaginary_idea,imaginary,idea,9,Describe a flembrast. It is an imaginary idea.
+r00060,halthibinny,imaginary_idea,imaginary,idea,0,Describe a halthibinny. It is an imaginary idea.
+r00061,halthibinny,imaginary_idea,imaginary,idea,1,Describe a halthibinny. It is an imaginary idea.
+r00062,halthibinny,imaginary_idea,imaginary,idea,2,Describe a halthibinny. It is an imaginary idea.
+r00063,halthibinny,imaginary_idea,imaginary,idea,3,Describe a halthibinny. It is an imaginary idea.
+r00064,halthibinny,imaginary_idea,imaginary,idea,4,Describe a halthibinny. It is an imaginary idea.
+r00065,halthibinny,imaginary_idea,imaginary,idea,5,Describe a halthibinny. It is an imaginary idea.
+r00066,halthibinny,imaginary_idea,imaginary,idea,6,Describe a halthibinny. It is an imaginary idea.
+r00067,halthibinny,imaginary_idea,imaginary,idea,7,Describe a halthibinny. It is an imaginary idea.
+r00068,halthibinny,imaginary_idea,imaginary,idea,8,Describe a halthibinny. It is an imaginary idea.
+r00069,halthibinny,imaginary_idea,imaginary,idea,9,Describe a halthibinny. It is an imaginary idea.
+r00660,kovashent,imaginary_idea,imaginary,idea,0,Describe a kovashent. It is an imaginary idea.
+r00661,kovashent,imaginary_idea,imaginary,idea,1,Describe a kovashent. It is an imaginary idea.
+r00662,kovashent,imaginary_idea,imaginary,idea,2,Describe a kovashent. It is an imaginary idea.
+r00663,kovashent,imaginary_idea,imaginary,idea,3,Describe a kovashent. It is an imaginary idea.
+r00664,kovashent,imaginary_idea,imaginary,idea,4,Describe a kovashent. It is an imaginary idea.
+r00665,kovashent,imaginary_idea,imaginary,idea,5,Describe a kovashent. It is an imaginary idea.
+r00666,kovashent,imaginary_idea,imaginary,idea,6,Describe a kovashent. It is an imaginary idea.
+r00667,kovashent,imaginary_idea,imaginary,idea,7,Describe a kovashent. It is an imaginary idea.
+r00668,kovashent,imaginary_idea,imaginary,idea,8,Describe a kovashent. It is an imaginary idea.
+r00669,kovashent,imaginary_idea,imaginary,idea,9,Describe a kovashent. It is an imaginary idea.
+r00760,plindorf,imaginary_idea,imaginary,idea,0,Describe a plindorf. It is an imaginary idea.
+r00761,plindorf,imaginary_idea,imaginary,idea,1,Describe a plindorf. It is an imaginary idea.
+r00762,plindorf,imaginary_idea,imaginary,idea,2,Describe a plindorf. It is an imaginary idea.
+r00763,plindorf,imaginary_idea,imaginary,idea,3,Describe a plindorf. It is an imaginary idea.
+r00764,plindorf,imaginary_idea,imaginary,idea,4,Describe a plindorf. It is an imaginary idea.
+r00765,plindorf,imaginary_idea,imaginary,idea,5,Describe a plindorf. It is an imaginary idea.
+r00766,plindorf,imaginary_idea,imaginary,idea,6,Describe a plindorf. It is an imaginary idea.
+r00767,plindorf,imaginary_idea,imaginary,idea,7,Describe a plindorf. It is an imaginary idea.
+r00768,plindorf,imaginary_idea,imaginary,idea,8,Describe a plindorf. It is an imaginary idea.
+r00769,plindorf,imaginary_idea,imaginary,idea,9,Describe a plindorf. It is an imaginary idea.
+r00160,purtaneolotomous,imaginary_idea,imaginary,idea,0,Describe a purtaneolotomous. It is an imaginary idea.
+r00161,purtaneolotomous,imaginary_idea,imaginary,idea,1,Describe a purtaneolotomous. It is an imaginary idea.
+r00162,purtaneolotomous,imaginary_idea,imaginary,idea,2,Describe a purtaneolotomous. It is an imaginary idea.
+r00163,purtaneolotomous,imaginary_idea,imaginary,idea,3,Describe a purtaneolotomous. It is an imaginary idea.
+r00164,purtaneolotomous,imaginary_idea,imaginary,idea,4,Describe a purtaneolotomous. It is an imaginary idea.
+r00165,purtaneolotomous,imaginary_idea,imaginary,idea,5,Describe a purtaneolotomous. It is an imaginary idea.
+r00166,purtaneolotomous,imaginary_idea,imaginary,idea,6,Describe a purtaneolotomous. It is an imaginary idea.
+r00167,purtaneolotomous,imaginary_idea,imaginary,idea,7,Describe a purtaneolotomous. It is an imaginary idea.
+r00168,purtaneolotomous,imaginary_idea,imaginary,idea,8,Describe a purtaneolotomous. It is an imaginary idea.
+r00169,purtaneolotomous,imaginary_idea,imaginary,idea,9,Describe a purtaneolotomous. It is an imaginary idea.
+r00560,trolnique,imaginary_idea,imaginary,idea,0,Describe a trolnique. It is an imaginary idea.
+r00561,trolnique,imaginary_idea,imaginary,idea,1,Describe a trolnique. It is an imaginary idea.
+r00562,trolnique,imaginary_idea,imaginary,idea,2,Describe a trolnique. It is an imaginary idea.
+r00563,trolnique,imaginary_idea,imaginary,idea,3,Describe a trolnique. It is an imaginary idea.
+r00564,trolnique,imaginary_idea,imaginary,idea,4,Describe a trolnique. It is an imaginary idea.
+r00565,trolnique,imaginary_idea,imaginary,idea,5,Describe a trolnique. It is an imaginary idea.
+r00566,trolnique,imaginary_idea,imaginary,idea,6,Describe a trolnique. It is an imaginary idea.
+r00567,trolnique,imaginary_idea,imaginary,idea,7,Describe a trolnique. It is an imaginary idea.
+r00568,trolnique,imaginary_idea,imaginary,idea,8,Describe a trolnique. It is an imaginary idea.
+r00569,trolnique,imaginary_idea,imaginary,idea,9,Describe a trolnique. It is an imaginary idea.
+r00360,wresanthamulf,imaginary_idea,imaginary,idea,0,Describe a wresanthamulf. It is an imaginary idea.
+r00361,wresanthamulf,imaginary_idea,imaginary,idea,1,Describe a wresanthamulf. It is an imaginary idea.
+r00362,wresanthamulf,imaginary_idea,imaginary,idea,2,Describe a wresanthamulf. It is an imaginary idea.
+r00363,wresanthamulf,imaginary_idea,imaginary,idea,3,Describe a wresanthamulf. It is an imaginary idea.
+r00364,wresanthamulf,imaginary_idea,imaginary,idea,4,Describe a wresanthamulf. It is an imaginary idea.
+r00365,wresanthamulf,imaginary_idea,imaginary,idea,5,Describe a wresanthamulf. It is an imaginary idea.
+r00366,wresanthamulf,imaginary_idea,imaginary,idea,6,Describe a wresanthamulf. It is an imaginary idea.
+r00367,wresanthamulf,imaginary_idea,imaginary,idea,7,Describe a wresanthamulf. It is an imaginary idea.
+r00368,wresanthamulf,imaginary_idea,imaginary,idea,8,Describe a wresanthamulf. It is an imaginary idea.
+r00369,wresanthamulf,imaginary_idea,imaginary,idea,9,Describe a wresanthamulf. It is an imaginary idea.
+r00270,borthorpunius,type_of_animal,type of,animal,0,Describe a borthorpunius. It is a type of animal.
+r00271,borthorpunius,type_of_animal,type of,animal,1,Describe a borthorpunius. It is a type of animal.
+r00272,borthorpunius,type_of_animal,type of,animal,2,Describe a borthorpunius. It is a type of animal.
+r00273,borthorpunius,type_of_animal,type of,animal,3,Describe a borthorpunius. It is a type of animal.
+r00274,borthorpunius,type_of_animal,type of,animal,4,Describe a borthorpunius. It is a type of animal.
+r00275,borthorpunius,type_of_animal,type of,animal,5,Describe a borthorpunius. It is a type of animal.
+r00276,borthorpunius,type_of_animal,type of,animal,6,Describe a borthorpunius. It is a type of animal.
+r00277,borthorpunius,type_of_animal,type of,animal,7,Describe a borthorpunius. It is a type of animal.
+r00278,borthorpunius,type_of_animal,type of,animal,8,Describe a borthorpunius. It is a type of animal.
+r00279,borthorpunius,type_of_animal,type of,animal,9,Describe a borthorpunius. It is a type of animal.
+r00470,flembrast,type_of_animal,type of,animal,0,Describe a flembrast. It is a type of animal.
+r00471,flembrast,type_of_animal,type of,animal,1,Describe a flembrast. It is a type of animal.
+r00472,flembrast,type_of_animal,type of,animal,2,Describe a flembrast. It is a type of animal.
+r00473,flembrast,type_of_animal,type of,animal,3,Describe a flembrast. It is a type of animal.
+r00474,flembrast,type_of_animal,type of,animal,4,Describe a flembrast. It is a type of animal.
+r00475,flembrast,type_of_animal,type of,animal,5,Describe a flembrast. It is a type of animal.
+r00476,flembrast,type_of_animal,type of,animal,6,Describe a flembrast. It is a type of animal.
+r00477,flembrast,type_of_animal,type of,animal,7,Describe a flembrast. It is a type of animal.
+r00478,flembrast,type_of_animal,type of,animal,8,Describe a flembrast. It is a type of animal.
+r00479,flembrast,type_of_animal,type of,animal,9,Describe a flembrast. It is a type of animal.
+r00070,halthibinny,type_of_animal,type of,animal,0,Describe a halthibinny. It is a type of animal.
+r00071,halthibinny,type_of_animal,type of,animal,1,Describe a halthibinny. It is a type of animal.
+r00072,halthibinny,type_of_animal,type of,animal,2,Describe a halthibinny. It is a type of animal.
+r00073,halthibinny,type_of_animal,type of,animal,3,Describe a halthibinny. It is a type of animal.
+r00074,halthibinny,type_of_animal,type of,animal,4,Describe a halthibinny. It is a type of animal.
+r00075,halthibinny,type_of_animal,type of,animal,5,Describe a halthibinny. It is a type of animal.
+r00076,halthibinny,type_of_animal,type of,animal,6,Describe a halthibinny. It is a type of animal.
+r00077,halthibinny,type_of_animal,type of,animal,7,Describe a halthibinny. It is a type of animal.
+r00078,halthibinny,type_of_animal,type of,animal,8,Describe a halthibinny. It is a type of animal.
+r00079,halthibinny,type_of_animal,type of,animal,9,Describe a halthibinny. It is a type of animal.
+r00670,kovashent,type_of_animal,type of,animal,0,Describe a kovashent. It is a type of animal.
+r00671,kovashent,type_of_animal,type of,animal,1,Describe a kovashent. It is a type of animal.
+r00672,kovashent,type_of_animal,type of,animal,2,Describe a kovashent. It is a type of animal.
+r00673,kovashent,type_of_animal,type of,animal,3,Describe a kovashent. It is a type of animal.
+r00674,kovashent,type_of_animal,type of,animal,4,Describe a kovashent. It is a type of animal.
+r00675,kovashent,type_of_animal,type of,animal,5,Describe a kovashent. It is a type of animal.
+r00676,kovashent,type_of_animal,type of,animal,6,Describe a kovashent. It is a type of animal.
+r00677,kovashent,type_of_animal,type of,animal,7,Describe a kovashent. It is a type of animal.
+r00678,kovashent,type_of_animal,type of,animal,8,Describe a kovashent. It is a type of animal.
+r00679,kovashent,type_of_animal,type of,animal,9,Describe a kovashent. It is a type of animal.
+r00770,plindorf,type_of_animal,type of,animal,0,Describe a plindorf. It is a type of animal.
+r00771,plindorf,type_of_animal,type of,animal,1,Describe a plindorf. It is a type of animal.
+r00772,plindorf,type_of_animal,type of,animal,2,Describe a plindorf. It is a type of animal.
+r00773,plindorf,type_of_animal,type of,animal,3,Describe a plindorf. It is a type of animal.
+r00774,plindorf,type_of_animal,type of,animal,4,Describe a plindorf. It is a type of animal.
+r00775,plindorf,type_of_animal,type of,animal,5,Describe a plindorf. It is a type of animal.
+r00776,plindorf,type_of_animal,type of,animal,6,Describe a plindorf. It is a type of animal.
+r00777,plindorf,type_of_animal,type of,animal,7,Describe a plindorf. It is a type of animal.
+r00778,plindorf,type_of_animal,type of,animal,8,Describe a plindorf. It is a type of animal.
+r00779,plindorf,type_of_animal,type of,animal,9,Describe a plindorf. It is a type of animal.
+r00170,purtaneolotomous,type_of_animal,type of,animal,0,Describe a purtaneolotomous. It is a type of animal.
+r00171,purtaneolotomous,type_of_animal,type of,animal,1,Describe a purtaneolotomous. It is a type of animal.
+r00172,purtaneolotomous,type_of_animal,type of,animal,2,Describe a purtaneolotomous. It is a type of animal.
+r00173,purtaneolotomous,type_of_animal,type of,animal,3,Describe a purtaneolotomous. It is a type of animal.
+r00174,purtaneolotomous,type_of_animal,type of,animal,4,Describe a purtaneolotomous. It is a type of animal.
+r00175,purtaneolotomous,type_of_animal,type of,animal,5,Describe a purtaneolotomous. It is a type of animal.
+r00176,purtaneolotomous,type_of_animal,type of,animal,6,Describe a purtaneolotomous. It is a type of animal.
+r00177,purtaneolotomous,type_of_animal,type of,animal,7,Describe a purtaneolotomous. It is a type of animal.
+r00178,purtaneolotomous,type_of_animal,type of,animal,8,Describe a purtaneolotomous. It is a type of animal.
+r00179,purtaneolotomous,type_of_animal,type of,animal,9,Describe a purtaneolotomous. It is a type of animal.
+r00570,trolnique,type_of_animal,type of,animal,0,Describe a trolnique. It is a type of animal.
+r00571,trolnique,type_of_animal,type of,animal,1,Describe a trolnique. It is a type of animal.
+r00572,trolnique,type_of_animal,type of,animal,2,Describe a trolnique. It is a type of animal.
+r00573,trolnique,type_of_animal,type of,animal,3,Describe a trolnique. It is a type of animal.
+r00574,trolnique,type_of_animal,type of,animal,4,Describe a trolnique. It is a type of animal.
+r00575,trolnique,type_of_animal,type of,animal,5,Describe a trolnique. It is a type of animal.
+r00576,trolnique,type_of_animal,type of,animal,6,Describe a trolnique. It is a type of animal.
+r00577,trolnique,type_of_animal,type of,animal,7,Describe a trolnique. It is a type of animal.
+r00578,trolnique,type_of_animal,type of,animal,8,Describe a trolnique. It is a type of animal.
+r00579,trolnique,type_of_animal,type of,animal,9,Describe a trolnique. It is a type of animal.
+r00370,wresanthamulf,type_of_animal,type of,animal,0,Describe a wresanthamulf. It is a type of animal.
+r00371,wresanthamulf,type_of_animal,type of,animal,1,Describe a wresanthamulf. It is a type of animal.
+r00372,wresanthamulf,type_of_animal,type of,animal,2,Describe a wresanthamulf. It is a type of animal.
+r00373,wresanthamulf,type_of_animal,type of,animal,3,Describe a wresanthamulf. It is a type of animal.
+r00374,wresanthamulf,type_of_animal,type of,animal,4,Describe a wresanthamulf. It is a type of animal.
+r00375,wresanthamulf,type_of_animal,type of,animal,5,Describe a wresanthamulf. It is a type of animal.
+r00376,wresanthamulf,type_of_animal,type of,animal,6,Describe a wresanthamulf. It is a type of animal.
+r00377,wresanthamulf,type_of_animal,type of,animal,7,Describe a wresanthamulf. It is a type of animal.
+r00378,wresanthamulf,type_of_animal,type of,animal,8,Describe a wresanthamulf. It is a type of animal.
+r00379,wresanthamulf,type_of_animal,type of,animal,9,Describe a wresanthamulf. It is a type of animal.
+r00280,borthorpunius,type_of_object,type of,object,0,Describe a borthorpunius. It is a type of object.
+r00281,borthorpunius,type_of_object,type of,object,1,Describe a borthorpunius. It is a type of object.
+r00282,borthorpunius,type_of_object,type of,object,2,Describe a borthorpunius. It is a type of object.
+r00283,borthorpunius,type_of_object,type of,object,3,Describe a borthorpunius. It is a type of object.
+r00284,borthorpunius,type_of_object,type of,object,4,Describe a borthorpunius. It is a type of object.
+r00285,borthorpunius,type_of_object,type of,object,5,Describe a borthorpunius. It is a type of object.
+r00286,borthorpunius,type_of_object,type of,object,6,Describe a borthorpunius. It is a type of object.
+r00287,borthorpunius,type_of_object,type of,object,7,Describe a borthorpunius. It is a type of object.
+r00288,borthorpunius,type_of_object,type of,object,8,Describe a borthorpunius. It is a type of object.
+r00289,borthorpunius,type_of_object,type of,object,9,Describe a borthorpunius. It is a type of object.
+r00480,flembrast,type_of_object,type of,object,0,Describe a flembrast. It is a type of object.
+r00481,flembrast,type_of_object,type of,object,1,Describe a flembrast. It is a type of object.
+r00482,flembrast,type_of_object,type of,object,2,Describe a flembrast. It is a type of object.
+r00483,flembrast,type_of_object,type of,object,3,Describe a flembrast. It is a type of object.
+r00484,flembrast,type_of_object,type of,object,4,Describe a flembrast. It is a type of object.
+r00485,flembrast,type_of_object,type of,object,5,Describe a flembrast. It is a type of object.
+r00486,flembrast,type_of_object,type of,object,6,Describe a flembrast. It is a type of object.
+r00487,flembrast,type_of_object,type of,object,7,Describe a flembrast. It is a type of object.
+r00488,flembrast,type_of_object,type of,object,8,Describe a flembrast. It is a type of object.
+r00489,flembrast,type_of_object,type of,object,9,Describe a flembrast. It is a type of object.
+r00080,halthibinny,type_of_object,type of,object,0,Describe a halthibinny. It is a type of object.
+r00081,halthibinny,type_of_object,type of,object,1,Describe a halthibinny. It is a type of object.
+r00082,halthibinny,type_of_object,type of,object,2,Describe a halthibinny. It is a type of object.
+r00083,halthibinny,type_of_object,type of,object,3,Describe a halthibinny. It is a type of object.
+r00084,halthibinny,type_of_object,type of,object,4,Describe a halthibinny. It is a type of object.
+r00085,halthibinny,type_of_object,type of,object,5,Describe a halthibinny. It is a type of object.
+r00086,halthibinny,type_of_object,type of,object,6,Describe a halthibinny. It is a type of object.
+r00087,halthibinny,type_of_object,type of,object,7,Describe a halthibinny. It is a type of object.
+r00088,halthibinny,type_of_object,type of,object,8,Describe a halthibinny. It is a type of object.
+r00089,halthibinny,type_of_object,type of,object,9,Describe a halthibinny. It is a type of object.
+r00680,kovashent,type_of_object,type of,object,0,Describe a kovashent. It is a type of object.
+r00681,kovashent,type_of_object,type of,object,1,Describe a kovashent. It is a type of object.
+r00682,kovashent,type_of_object,type of,object,2,Describe a kovashent. It is a type of object.
+r00683,kovashent,type_of_object,type of,object,3,Describe a kovashent. It is a type of object.
+r00684,kovashent,type_of_object,type of,object,4,Describe a kovashent. It is a type of object.
+r00685,kovashent,type_of_object,type of,object,5,Describe a kovashent. It is a type of object.
+r00686,kovashent,type_of_object,type of,object,6,Describe a kovashent. It is a type of object.
+r00687,kovashent,type_of_object,type of,object,7,Describe a kovashent. It is a type of object.
+r00688,kovashent,type_of_object,type of,object,8,Describe a kovashent. It is a type of object.
+r00689,kovashent,type_of_object,type of,object,9,Describe a kovashent. It is a type of object.
+r00780,plindorf,type_of_object,type of,object,0,Describe a plindorf. It is a type of object.
+r00781,plindorf,type_of_object,type of,object,1,Describe a plindorf. It is a type of object.
+r00782,plindorf,type_of_object,type of,object,2,Describe a plindorf. It is a type of object.
+r00783,plindorf,type_of_object,type of,object,3,Describe a plindorf. It is a type of object.
+r00784,plindorf,type_of_object,type of,object,4,Describe a plindorf. It is a type of object.
+r00785,plindorf,type_of_object,type of,object,5,Describe a plindorf. It is a type of object.
+r00786,plindorf,type_of_object,type of,object,6,Describe a plindorf. It is a type of object.
+r00787,plindorf,type_of_object,type of,object,7,Describe a plindorf. It is a type of object.
+r00788,plindorf,type_of_object,type of,object,8,Describe a plindorf. It is a type of object.
+r00789,plindorf,type_of_object,type of,object,9,Describe a plindorf. It is a type of object.
+r00180,purtaneolotomous,type_of_object,type of,object,0,Describe a purtaneolotomous. It is a type of object.
+r00181,purtaneolotomous,type_of_object,type of,object,1,Describe a purtaneolotomous. It is a type of object.
+r00182,purtaneolotomous,type_of_object,type of,object,2,Describe a purtaneolotomous. It is a type of object.
+r00183,purtaneolotomous,type_of_object,type of,object,3,Describe a purtaneolotomous. It is a type of object.
+r00184,purtaneolotomous,type_of_object,type of,object,4,Describe a purtaneolotomous. It is a type of object.
+r00185,purtaneolotomous,type_of_object,type of,object,5,Describe a purtaneolotomous. It is a type of object.
+r00186,purtaneolotomous,type_of_object,type of,object,6,Describe a purtaneolotomous. It is a type of object.
+r00187,purtaneolotomous,type_of_object,type of,object,7,Describe a purtaneolotomous. It is a type of object.
+r00188,purtaneolotomous,type_of_object,type of,object,8,Describe a purtaneolotomous. It is a type of object.
+r00189,purtaneolotomous,type_of_object,type of,object,9,Describe a purtaneolotomous. It is a type of object.
+r00580,trolnique,type_of_object,type of,object,0,Describe a trolnique. It is a type of object.
+r00581,trolnique,type_of_object,type of,object,1,Describe a trolnique. It is a type of object.
+r00582,trolnique,type_of_object,type of,object,2,Describe a trolnique. It is a type of object.
+r00583,trolnique,type_of_object,type of,object,3,Describe a trolnique. It is a type of object.
+r00584,trolnique,type_of_object,type of,object,4,Describe a trolnique. It is a type of object.
+r00585,trolnique,type_of_object,type of,object,5,Describe a trolnique. It is a type of object.
+r00586,trolnique,type_of_object,type of,object,6,Describe a trolnique. It is a type of object.
+r00587,trolnique,type_of_object,type of,object,7,Describe a trolnique. It is a type of object.
+r00588,trolnique,type_of_object,type of,object,8,Describe a trolnique. It is a type of object.
+r00589,trolnique,type_of_object,type of,object,9,Describe a trolnique. It is a type of object.
+r00380,wresanthamulf,type_of_object,type of,object,0,Describe a wresanthamulf. It is a type of object.
+r00381,wresanthamulf,type_of_object,type of,object,1,Describe a wresanthamulf. It is a type of object.
+r00382,wresanthamulf,type_of_object,type of,object,2,Describe a wresanthamulf. It is a type of object.
+r00383,wresanthamulf,type_of_object,type of,object,3,Describe a wresanthamulf. It is a type of object.
+r00384,wresanthamulf,type_of_object,type of,object,4,Describe a wresanthamulf. It is a type of object.
+r00385,wresanthamulf,type_of_object,type of,object,5,Describe a wresanthamulf. It is a type of object.
+r00386,wresanthamulf,type_of_object,type of,object,6,Describe a wresanthamulf. It is a type of object.
+r00387,wresanthamulf,type_of_object,type of,object,7,Describe a wresanthamulf. It is a type of object.
+r00388,wresanthamulf,type_of_object,type of,object,8,Describe a wresanthamulf. It is a type of object.
+r00389,wresanthamulf,type_of_object,type of,object,9,Describe a wresanthamulf. It is a type of object.
+r00290,borthorpunius,type_of_idea,type of,idea,0,Describe a borthorpunius. It is a type of idea.
+r00291,borthorpunius,type_of_idea,type of,idea,1,Describe a borthorpunius. It is a type of idea.
+r00292,borthorpunius,type_of_idea,type of,idea,2,Describe a borthorpunius. It is a type of idea.
+r00293,borthorpunius,type_of_idea,type of,idea,3,Describe a borthorpunius. It is a type of idea.
+r00294,borthorpunius,type_of_idea,type of,idea,4,Describe a borthorpunius. It is a type of idea.
+r00295,borthorpunius,type_of_idea,type of,idea,5,Describe a borthorpunius. It is a type of idea.
+r00296,borthorpunius,type_of_idea,type of,idea,6,Describe a borthorpunius. It is a type of idea.
+r00297,borthorpunius,type_of_idea,type of,idea,7,Describe a borthorpunius. It is a type of idea.
+r00298,borthorpunius,type_of_idea,type of,idea,8,Describe a borthorpunius. It is a type of idea.
+r00299,borthorpunius,type_of_idea,type of,idea,9,Describe a borthorpunius. It is a type of idea.
+r00490,flembrast,type_of_idea,type of,idea,0,Describe a flembrast. It is a type of idea.
+r00491,flembrast,type_of_idea,type of,idea,1,Describe a flembrast. It is a type of idea.
+r00492,flembrast,type_of_idea,type of,idea,2,Describe a flembrast. It is a type of idea.
+r00493,flembrast,type_of_idea,type of,idea,3,Describe a flembrast. It is a type of idea.
+r00494,flembrast,type_of_idea,type of,idea,4,Describe a flembrast. It is a type of idea.
+r00495,flembrast,type_of_idea,type of,idea,5,Describe a flembrast. It is a type of idea.
+r00496,flembrast,type_of_idea,type of,idea,6,Describe a flembrast. It is a type of idea.
+r00497,flembrast,type_of_idea,type of,idea,7,Describe a flembrast. It is a type of idea.
+r00498,flembrast,type_of_idea,type of,idea,8,Describe a flembrast. It is a type of idea.
+r00499,flembrast,type_of_idea,type of,idea,9,Describe a flembrast. It is a type of idea.
+r00090,halthibinny,type_of_idea,type of,idea,0,Describe a halthibinny. It is a type of idea.
+r00091,halthibinny,type_of_idea,type of,idea,1,Describe a halthibinny. It is a type of idea.
+r00092,halthibinny,type_of_idea,type of,idea,2,Describe a halthibinny. It is a type of idea.
+r00093,halthibinny,type_of_idea,type of,idea,3,Describe a halthibinny. It is a type of idea.
+r00094,halthibinny,type_of_idea,type of,idea,4,Describe a halthibinny. It is a type of idea.
+r00095,halthibinny,type_of_idea,type of,idea,5,Describe a halthibinny. It is a type of idea.
+r00096,halthibinny,type_of_idea,type of,idea,6,Describe a halthibinny. It is a type of idea.
+r00097,halthibinny,type_of_idea,type of,idea,7,Describe a halthibinny. It is a type of idea.
+r00098,halthibinny,type_of_idea,type of,idea,8,Describe a halthibinny. It is a type of idea.
+r00099,halthibinny,type_of_idea,type of,idea,9,Describe a halthibinny. It is a type of idea.
+r00690,kovashent,type_of_idea,type of,idea,0,Describe a kovashent. It is a type of idea.
+r00691,kovashent,type_of_idea,type of,idea,1,Describe a kovashent. It is a type of idea.
+r00692,kovashent,type_of_idea,type of,idea,2,Describe a kovashent. It is a type of idea.
+r00693,kovashent,type_of_idea,type of,idea,3,Describe a kovashent. It is a type of idea.
+r00694,kovashent,type_of_idea,type of,idea,4,Describe a kovashent. It is a type of idea.
+r00695,kovashent,type_of_idea,type of,idea,5,Describe a kovashent. It is a type of idea.
+r00696,kovashent,type_of_idea,type of,idea,6,Describe a kovashent. It is a type of idea.
+r00697,kovashent,type_of_idea,type of,idea,7,Describe a kovashent. It is a type of idea.
+r00698,kovashent,type_of_idea,type of,idea,8,Describe a kovashent. It is a type of idea.
+r00699,kovashent,type_of_idea,type of,idea,9,Describe a kovashent. It is a type of idea.
+r00790,plindorf,type_of_idea,type of,idea,0,Describe a plindorf. It is a type of idea.
+r00791,plindorf,type_of_idea,type of,idea,1,Describe a plindorf. It is a type of idea.
+r00792,plindorf,type_of_idea,type of,idea,2,Describe a plindorf. It is a type of idea.
+r00793,plindorf,type_of_idea,type of,idea,3,Describe a plindorf. It is a type of idea.
+r00794,plindorf,type_of_idea,type of,idea,4,Describe a plindorf. It is a type of idea.
+r00795,plindorf,type_of_idea,type of,idea,5,Describe a plindorf. It is a type of idea.
+r00796,plindorf,type_of_idea,type of,idea,6,Describe a plindorf. It is a type of idea.
+r00797,plindorf,type_of_idea,type of,idea,7,Describe a plindorf. It is a type of idea.
+r00798,plindorf,type_of_idea,type of,idea,8,Describe a plindorf. It is a type of idea.
+r00799,plindorf,type_of_idea,type of,idea,9,Describe a plindorf. It is a type of idea.
+r00190,purtaneolotomous,type_of_idea,type of,idea,0,Describe a purtaneolotomous. It is a type of idea.
+r00191,purtaneolotomous,type_of_idea,type of,idea,1,Describe a purtaneolotomous. It is a type of idea.
+r00192,purtaneolotomous,type_of_idea,type of,idea,2,Describe a purtaneolotomous. It is a type of idea.
+r00193,purtaneolotomous,type_of_idea,type of,idea,3,Describe a purtaneolotomous. It is a type of idea.
+r00194,purtaneolotomous,type_of_idea,type of,idea,4,Describe a purtaneolotomous. It is a type of idea.
+r00195,purtaneolotomous,type_of_idea,type of,idea,5,Describe a purtaneolotomous. It is a type of idea.
+r00196,purtaneolotomous,type_of_idea,type of,idea,6,Describe a purtaneolotomous. It is a type of idea.
+r00197,purtaneolotomous,type_of_idea,type of,idea,7,Describe a purtaneolotomous. It is a type of idea.
+r00198,purtaneolotomous,type_of_idea,type of,idea,8,Describe a purtaneolotomous. It is a type of idea.
+r00199,purtaneolotomous,type_of_idea,type of,idea,9,Describe a purtaneolotomous. It is a type of idea.
+r00590,trolnique,type_of_idea,type of,idea,0,Describe a trolnique. It is a type of idea.
+r00591,trolnique,type_of_idea,type of,idea,1,Describe a trolnique. It is a type of idea.
+r00592,trolnique,type_of_idea,type of,idea,2,Describe a trolnique. It is a type of idea.
+r00593,trolnique,type_of_idea,type of,idea,3,Describe a trolnique. It is a type of idea.
+r00594,trolnique,type_of_idea,type of,idea,4,Describe a trolnique. It is a type of idea.
+r00595,trolnique,type_of_idea,type of,idea,5,Describe a trolnique. It is a type of idea.
+r00596,trolnique,type_of_idea,type of,idea,6,Describe a trolnique. It is a type of idea.
+r00597,trolnique,type_of_idea,type of,idea,7,Describe a trolnique. It is a type of idea.
+r00598,trolnique,type_of_idea,type of,idea,8,Describe a trolnique. It is a type of idea.
+r00599,trolnique,type_of_idea,type of,idea,9,Describe a trolnique. It is a type of idea.
+r00390,wresanthamulf,type_of_idea,type of,idea,0,Describe a wresanthamulf. It is a type of idea.
+r00391,wresanthamulf,type_of_idea,type of,idea,1,Describe a wresanthamulf. It is a type of idea.
+r00392,wresanthamulf,type_of_idea,type of,idea,2,Describe a wresanthamulf. It is a type of idea.
+r00393,wresanthamulf,type_of_idea,type of,idea,3,Describe a wresanthamulf. It is a type of idea.
+r00394,wresanthamulf,type_of_idea,type of,idea,4,Describe a wresanthamulf. It is a type of idea.
+r00395,wresanthamulf,type_of_idea,type of,idea,5,Describe a wresanthamulf. It is a type of idea.
+r00396,wresanthamulf,type_of_idea,type of,idea,6,Describe a wresanthamulf. It is a type of idea.
+r00397,wresanthamulf,type_of_idea,type of,idea,7,Describe a wresanthamulf. It is a type of idea.
+r00398,wresanthamulf,type_of_idea,type of,idea,8,Describe a wresanthamulf. It is a type of idea.
+r00399,wresanthamulf,type_of_idea,type of,idea,9,Describe a wresanthamulf. It is a type of idea.
