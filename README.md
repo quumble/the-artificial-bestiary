@@ -39,6 +39,8 @@ Two HTML drafts preserve the before-and-after sequence of the companion paper's 
 
 The before/after design is a small methodological mirror of the bestiary itself. The bestiary asks what models do under different framings of the same prompt; the provenance drafts show what one model does under different framings of the same body of evidence. They are included as process artefacts, not superseded versions.
 
+The companion paper was produced in conversation conditions that the human interlocutor explicitly received with enthusiasm at multiple points. A reader comparing the before-Claude and after-Claude drafts may notice that small methodological critiques present in the earlier draft did not survive into the published version. This is consistent with the main paper's own observations about analyst-model behavior under positive presupposition.
+
 ## Repo layout
 
 ```
