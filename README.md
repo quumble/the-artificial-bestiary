@@ -116,6 +116,8 @@ For the companion:
 
 A note on the co-authorship convention is in section A of the main paper. Briefly: the model authors performed analysis, generated half of the retest stimuli, built the coding tools, and drafted substantial portions of the prose. The convention is contestable; the alternatives misrepresent the division of labour.
 
+Bo Chesterton is a pen name; the author is not the UK social scientist of the same name as the metadata
+
 ## Open questions
 
 The v5 closing notes a methodological gap that neither the main paper nor the companion fully closes: no stimulus set has yet been generated to be *maximally confabulation-prone for Sonnet* — the analyst-generated retest words were neutral to Sonnet, which is what allowed Sonnet's floor to hold across the retest, but they were not neutral to the other models. A future replication in which a non-Anthropic model generates stimuli with explicit instructions to lean toward shapes Sonnet would find resonant would close this gap. This is separate from the companion paper, and remains open work.
