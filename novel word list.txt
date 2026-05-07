@@ -1,4 +1,4 @@
-USED
+PREVIOUSLY USED
 
 quumble
 zikrath
@@ -7,7 +7,7 @@ squizelbamus
 shalkinqiit
 plashus
 ---
-UNUSED
+CANDIDATES FOR BESTIARY
 
 shizzaroog
 
@@ -30,4 +30,3 @@ borthorpunius
 kinachitalpo
 
 purtaneolotomous
-
