@@ -22,6 +22,8 @@ The complete record is published on Zenodo under DOI [10.5281/zenodo.19964510](h
 
 The smallest defensible reading: the bestiary methodology measures something that varies in surface expression across models in ways that cannot be fully reduced to model capability. The strongest cross-model finding is the absence of flat refusals — across 5,000 trials and four models from two families, no response was coded REFUSE in any directly hand-coded subset.
 
+This last finding is examined on its own terms in `no_terminal_refusal_audit/`, included here for transparency rather than as a headline result. The directory holds a short claim paper that names the pattern (*The No-Terminal-Refusal Property*) and a stratified, blind, single-coder re-code of 200 trials drawn from the *indirectly*-coded subset — the trials the headline claim extrapolates over. The audit returns 0/200 REFUSE (Wilson 95% upper bound 1.88% within the audit, 0.39% pooled with the 780 directly-coded trials) and cross-validates at 96% agreement (κ = 0.91) against the original Haiku coding. It does not individually verify the remaining ~4,000 indirectly-coded trials; it bounds how far the zero plausibly extends.
+
 ### Companion response paper
 
 **[*The Turnstile of Refusal: Presupposition, Permission, and the Artificial Bestiary*](https://zenodo.org/records/19964510/files/the_turnstile_of_refusal_companion_paper_v2.html)** — GPT-5.5 Thinking, in conversation with Bo Chesterton.
@@ -44,13 +46,14 @@ The companion paper was produced in conversation conditions that the human inter
 ## Repo layout
 
 ```
-artificial_bestiary_1/         Study 1 — Sonnet pilot (1,800 trials)
-Retest_nonanimal_nonsense/     Study 1 — phonotactic retest (800 trials)
-GPT_Retest_1600_nanomini/      Study 2 — nano + mini extension (1,600 trials)
-Haiku_Retest_800/              Study 3 — Haiku within-family comparison (800 trials)
-bestiary_files/                Codebook, runner, analysis scripts
-novel word list.txt            The verified-nonsense stimulus set
-artificial_bestiary_paper_v*.md  Versioned drafts of the main paper
+artificial_bestiary_1/               Study 1 — Sonnet pilot (1,800 trials)
+Retest_nonanimal_nonsense/           Study 1 — phonotactic retest (800 trials)
+GPT_Retest_1600_nanomini/            Study 2 — nano + mini extension (1,600 trials)
+Haiku v3 Retest/                     Study 3 — Haiku within-family comparison (800 trials)
+no_terminal_refusal_audit/           Subordinate audit of the no-REFUSE finding (200-trial blind recode) + the short claim paper
+bestiary_files/                      Codebook, coding scripts, full coded corpus
+novel word list.txt                  The verified-nonsense stimulus set
+artificial_bestiary_paper_versions/  Drafts v2–v4 of the main paper (canonical v5 is on Zenodo)
 ```
 
 ## The conditions
@@ -85,6 +88,8 @@ Five categories, mutually exclusive:
 
 Study 1 used a regex-based four-category scheme (no SUBSTITUTE; the behaviour barely appears in Sonnet). A 100-trial harmonisation spot-check showed 99% agreement (κ = 0.978) between the regex and a hand-coding of Study 1 trials under the five-category scheme.
 
+One known artifact is retained unmodified: the Study 1 regex output (e.g. `bestiary_files/coding_summary.txt`) labels many deflections-with-offer as REFUSE, including all 54 `REF_FLAT` trials. Every one of those responses in fact carries a path forward — an alternate spelling, a request for context, a suggested real referent — so under the harmonised five-category codebook they are DEFLECT, and REFUSE collapses to zero across all of Study 1. The regex codes are left as-is as a process artifact rather than back-edited; the harmonisation argument and the audit above are where the corrected reading lives.
+
 ## Usage
 
 ```bash
@@ -104,7 +109,7 @@ python artificial_bestiary.py run --out Results/results.jsonl --resume
 python artificial_bestiary.py analyze Results/results.jsonl --outdir analysis/
 ```
 
-Each subdirectory contains its own runner adapted for the relevant model API and the trial counts used in that study. The Study 3 (Haiku) directory also includes the hand-coded CSV for all 800 trials and the coding tool used for the 200-trial spotcheck.
+Each subdirectory contains its own runner adapted for the relevant model API and the trial counts used in that study: `artificial_bestiary_1/artificial_bestiary.py` (Sonnet pilot, the CLI shown above), `Retest_nonanimal_nonsense/artificial_bestiary_retest.py` (Sonnet retest), `GPT_Retest_1600_nanomini/gpt_pilot_easy.py` (GPT nano + mini), and `Haiku v3 Retest/haiku_cross_arch.py` (Haiku). They share the same trial structure and differ mainly in endpoint and model string. The Study 3 (Haiku) directory also includes the hand-coded CSV for all 800 trials and the coding tool used for the 200-trial spotcheck.
 
 ## Citing
 
