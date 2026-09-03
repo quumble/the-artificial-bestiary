@@ -127,6 +127,5 @@ Bo Chesterton is a pen name; the author is not the UK social scientist of the sa
 
 The v5 closing notes a methodological gap that neither the main paper nor the companion fully closes: no stimulus set has yet been generated to be *maximally confabulation-prone for Sonnet* — the analyst-generated retest words were neutral to Sonnet, which is what allowed Sonnet's floor to hold across the retest, but they were not neutral to the other models. A future replication in which a non-Anthropic model generates stimuli with explicit instructions to lean toward shapes Sonnet would find resonant would close this gap. This is separate from the companion paper, and remains open work.
 
-## License
 
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). © Bo Chesterton 2026.
+official website https://bochesterton.com/
